@@ -1,0 +1,22 @@
+{
+  "name": "Prince Malanda (Stany Malanda) — Développeur Full-Stack Junior",
+  "short_name": "Prince Malanda",
+  "description": "Portfolio de Prince Malanda (Stany Malanda), développeur full-stack junior à Brazzaville : React, Node.js, Python et SQL.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
